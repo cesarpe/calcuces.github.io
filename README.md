@@ -1,7 +1,7 @@
 Calculadora simple 
 
 
-Esta aplicación se ha desrollado con las librerias:
+Esta aplicación se ha desarollado con las librerias:
 
 svelte: https://svelte.dev/
 tailwind : https://tailwindcss.com/

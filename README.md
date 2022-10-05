@@ -1,8 +1,8 @@
-Calculadora simple 
+# Calcu Ces 
+## Construido con 
+* [Svelte](https://svelte.dev/ "Svelte para programar")
+* [Vite](https://vitejs.dev/ )
+* [Tailwind](https://tailwindcss.com/ "Desarrolla tus estilos css")
+* [Evaluator](https://github.com/alecrios/evaluator.js "Evaluator programa de cálculo")
 
 
-Esta aplicación se ha desarollado con las librerias:
-
-svelte: https://svelte.dev/
-tailwind : https://tailwindcss.com/
-evaluador: https://github.com/alecrios/evaluator.js
